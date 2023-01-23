@@ -1,0 +1,16 @@
+
+{
+  "VIEWS_total":7,
+  "VIEWS_IDeverytime":0,
+  "VIEWS_IDinstagram":1,
+
+  "AGE_undergraduate1":0,
+  "AGE_undergraduate2":0,
+  "AGE_undergraduate3":1,
+  "AGE_undergraduate4":1,
+  "AGE_graduate":0,
+  "AGE_else":0,
+
+  "MAINFUNC_answersheet":1,
+  "MAINFUNC_quenansw":1
+}
